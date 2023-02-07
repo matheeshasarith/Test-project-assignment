@@ -3,10 +3,9 @@ This is a test project created for assignment.
 
 
 
+# ............................................................... #
 
-
-
-# Use Yarn package manager.
+# (Use Yarn package manager) #
 
 # Steps to proceed.
 
@@ -15,5 +14,6 @@ This is a test project created for assignment.
     3 yarn start
     4 view the url "http://localhost:3000/"
     
+# ............................................................... #
 
 
