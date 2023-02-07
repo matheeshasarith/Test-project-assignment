@@ -12,7 +12,7 @@ This is a test project created for assignment.
     1 cd assignmnet
     2 yarn install
     3 yarn start
-    4 view the url "http://localhost:3000/"
+    4 view the url "http://localhost:3000/animal/detail"
     
 # ............................................................... #
 
